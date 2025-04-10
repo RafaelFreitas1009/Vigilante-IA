@@ -1,4 +1,4 @@
-## Descrição
+## VIGILANTE-IA
 
 O projeto visa aplicar técnicas de Inteligência Artificial para detectar anomalias em dados de saúde ocupacional, como atestados, ASOs e exames periódicos. A proposta é identificar padrões atípicos, como aumento repentino de afastamentos por CID específicos, demissões ligadas a laudos médicos ou vencimentos fora do padrão. Isso permitirá ações preventivas mais eficazes, contribuindo para a saúde dos colaboradores e a redução de riscos trabalhistas.
 
