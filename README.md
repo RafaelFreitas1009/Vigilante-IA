@@ -11,7 +11,9 @@ Siga estes passos:
 git clone <https://github.com/RafaelFreitas1009/Vigilante-IA.git>
 
 # Passo 2: Acesse o diretório do projeto.
-cd <Vigilante-IA>
+'''
+cd Vigilante-IA
+'''
 
 # Passo 3: Instale as dependências necessárias.
 npm i
