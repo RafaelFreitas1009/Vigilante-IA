@@ -8,10 +8,10 @@ O projeto visa aplicar técnicas de Inteligência Artificial para detectar anoma
 Siga estes passos:
 
 # Passo 1: Clone o repositório usando a URL Git do projeto.
-git clone <https://github.com/RafaelFreitas1009/de-vigilante-ia.git>
+git clone <https://github.com/RafaelFreitas1009/Vigilante-IA.git>
 
 # Passo 2: Acesse o diretório do projeto.
-cd <de-vigilante-ia>
+cd <Vigilante-IA>
 
 # Passo 3: Instale as dependências necessárias.
 npm i
